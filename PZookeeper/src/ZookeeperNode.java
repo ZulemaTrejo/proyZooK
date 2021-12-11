@@ -1,11 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
 
-import javax.xml.bind.Marshaller.Listener;
-
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.StringWriter;
 
 public class ZookeeperNode<Nodo> {
 		// Variable en la cual se va a guardar el valor.
